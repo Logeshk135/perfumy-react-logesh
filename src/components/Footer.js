@@ -1,0 +1,18 @@
+function Footer() {
+  return (
+    <footer>
+      <h2> &copy; Perfumy</h2>
+      <p>copyright &copy; 2023 Perfumy. All rights reserved.</p>
+      <p>Follow us on social media</p>
+      <ul>
+        <li><a href="#">Facebook</a></li>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">Instagram</a></li>
+        <li><a href="#">LinkedIn</a></li>
+      </ul>
+    </footer>
+  )
+}
+
+
+export default Footer

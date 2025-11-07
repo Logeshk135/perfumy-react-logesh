@@ -1,6 +1,6 @@
-import one from "../assets/images/one.jpg"
-import two from "../assets/images/two.jpg"
-import three from "../assets/images/three.jpg"
+import one from "../asstes/images/one.jpg"
+import two from "../asstes/images/two.jpg"
+import three from "../asstes/images/three.jpg"
 
 
 function Product() {

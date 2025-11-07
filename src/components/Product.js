@@ -1,13 +1,13 @@
-import one from "../asstes/images/one.jpg"
-import two from "../asstes/images/two.jpg"
-import three from "../asstes/images/three.jpg"
+import one from "../assets/images/one.jpg"
+import two from "../assets/images/two.jpg"
+import three from "../assets/images/three.jpg"
 
 
 function Product() {
   return (
     <div className="product">
       <div class="box">
-        <img src={one} alt="Perfume 1" />
+        <img src={one} alt="Perfume 1"/>
         <p>Fogg Wood Extreme, Eau De Parfum, Lounge Men's Perfume, 100ml</p>
       </div>
 
